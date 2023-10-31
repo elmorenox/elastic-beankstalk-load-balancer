@@ -1,6 +1,6 @@
 # Application Load Balancer for an Elastic Beanstalk Environment
 
-***This repository guides you through a scenario where [a URL Shortener](https://github.com/elmorenox/jenkins-flaskapp-on-ec2-in-vpc), a Flask application running on a gunicorn server and proxied by NGINX, is expected to handle significant traffic spikes during the 12 government-recognized holidays in the US.***
+***This repository guides you through a scenario where [a URL Shortener](https://github.com/elmorenox/jenkins-flaskapp-on-ec2-in-vpc), a Flask application running on an Elastic Beankstalk environment is expected to handle significant traffic spikes during the 12 government-recognized holidays in the US.***
 
 ## Story
 
